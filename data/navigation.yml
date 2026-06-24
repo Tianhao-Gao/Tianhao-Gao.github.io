@@ -1,0 +1,13 @@
+main:
+  - title: "首页"
+    url: /home/
+  - title: "分析"
+    url: /analysis/
+  - title: "代数"
+    url: /algebra/
+  - title: "几何"
+    url: /geometry/
+  - title: "博客"
+    url: /year-archive/
+  - title: "关于"
+    url: /about/
