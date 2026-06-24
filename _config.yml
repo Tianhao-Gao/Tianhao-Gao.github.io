@@ -91,6 +91,6 @@ defaults:
       mathjax: true
       author_profile: true
 
-# ===== 首页设置 =====
-# 将首页指定为自定义页面
-home: /home/
+# 首页设为使用 home 布局的分页页面
+paginate: 5                      # 每页显示文章数
+paginate_path: /page:num/        # 分页路径
